@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/zcc/static/js/main.82736672.js",
+    "main.js": "/zcc/static/js/main.7cce18e5.js",
     "static/media/logo.png": "/zcc/static/media/logo.8b0e184dac49031fbb1f.png",
     "index.html": "/zcc/index.html",
-    "main.82736672.js.map": "/zcc/static/js/main.82736672.js.map"
+    "main.7cce18e5.js.map": "/zcc/static/js/main.7cce18e5.js.map"
   },
   "entrypoints": [
-    "static/js/main.82736672.js"
+    "static/js/main.7cce18e5.js"
   ]
 }
